@@ -25,3 +25,42 @@
 2020-06-08 15:40:29,396 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
 2020-06-08 15:40:29,396 - logs… - INFO - caseList:[]
 2020-06-08 15:40:29,553 - logs… - INFO - *********TEST END*********
+2020-06-08 20:07:12,974 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:07:12,975 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:07:12,975 - logs… - INFO - caseList:[]
+2020-06-08 20:07:13,172 - logs… - INFO - *********TEST END*********
+2020-06-08 20:40:21,734 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:40:21,735 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:40:21,735 - logs… - INFO - caseList:[]
+2020-06-08 20:40:21,894 - logs… - INFO - *********TEST END*********
+2020-06-08 20:45:29,452 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:45:29,452 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:45:29,453 - logs… - INFO - caseList:[]
+2020-06-08 20:45:29,610 - logs… - INFO - 'str' object has no attribute 'decode'
+2020-06-08 20:45:29,610 - logs… - INFO - *********TEST END*********
+2020-06-08 20:46:25,993 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:46:25,993 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:46:25,993 - logs… - INFO - caseList:[]
+2020-06-08 20:46:26,149 - logs… - INFO - a bytes-like object is required, not 'str'
+2020-06-08 20:46:26,150 - logs… - INFO - *********TEST END*********
+2020-06-08 20:46:33,357 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:46:33,358 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:46:33,358 - logs… - INFO - caseList:[]
+2020-06-08 20:46:33,701 - logs… - INFO - *********TEST END*********
+2020-06-08 20:46:40,834 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:46:40,834 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:46:40,835 - logs… - INFO - caseList:[]
+2020-06-08 20:46:40,994 - logs… - INFO - *********TEST END*********
+2020-06-08 20:48:12,275 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:48:12,276 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:48:12,276 - logs… - INFO - caseList:[]
+2020-06-08 20:48:12,465 - logs… - INFO - *********TEST END*********
+2020-06-08 20:49:35,366 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:49:35,367 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:49:35,367 - logs… - INFO - caseList:[]
+2020-06-08 20:49:35,530 - logs… - INFO - write() argument must be str, not bytes
+2020-06-08 20:49:35,530 - logs… - INFO - *********TEST END*********
+2020-06-08 20:49:45,033 - logs… - INFO - resultPath:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:49:45,034 - logs… - INFO - caseListFile:C:\Users\songyao\PycharmProjects\python_api\caselist.txt
+2020-06-08 20:49:45,034 - logs… - INFO - caseList:[]
+2020-06-08 20:49:45,205 - logs… - INFO - *********TEST END*********
