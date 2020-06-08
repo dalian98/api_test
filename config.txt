@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+[HTTP]
+scheme = http
+baseurl = 127.0.0.1
+port = 8888
+timeout = 10.0
+
+
+
+[EMAIL]
+on_off = off;
+subject = 接口自动化测试报告
+app = Outlook
+addressee = songxiaobao@qq.com
+cc = zhaobenshan@qq.com
