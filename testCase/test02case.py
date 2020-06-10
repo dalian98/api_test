@@ -11,7 +11,7 @@ login_xls = readExcel.readExcel().get_xls('userCase.xlsx', 'login1')  # 获取us
 
 
 @paramunittest.parametrized(*login_xls)  # 传入参数
-class testUserLogin(unittest.TestCase):
+class testUsershabi(unittest.TestCase):
     def setParameters(self, case_name, path, query, method):  # 将各参数格式为str
         self.case_name = str(case_name)
         self.path = str(path)

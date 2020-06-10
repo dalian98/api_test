@@ -1,4 +1,4 @@
-#coding=utf-8
+# -*- coding: utf-8 -*-
 import os
 import common.HTMLTestRunner as HTMLTestRunner
 import getpathInfo
@@ -26,7 +26,7 @@ class AllTest:  # 定义一个类AllTest
         self.caseFile = os.path.join(path, "testCase")  # 真正的测试断言文件路径
         self.caseList = []
         log.info('resultPath:%s', self.caseListFile)
-        log.info('caseListFile:%s', self.caseListFile)
+        log.info('caseListFile:%s', self.caseFile)
         log.info('caseList:%s', self.caseList)
 
     def set_case_list(self):
